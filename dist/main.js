@@ -1,0 +1,1 @@
+document.querySelector("#submitbutton"),document.getElementById("email").addEventListener("blur",(()=>{!function(){const e=document.getElementById("email");e.checkValidity()?document.getElementById("demo").innerHTML="":document.getElementById("demo").innerHTML=e.validationMessage}()}));
